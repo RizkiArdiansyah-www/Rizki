@@ -28,7 +28,7 @@ const staff = [
         division: "PTI",
         batch: "2026",
         role: "Member",
-        github: "Urielele",
+        github: "RizkiARdiansyah-www",
         foto:"foto/Rizki.png",
     }
 
